@@ -21,7 +21,7 @@ public class MyApp {
 	public double changePrice(double newPrice)
 	{
 		price = newPrice;
-	}
+
  
 	public void printProduct() {
 		System.out.printf("Product %s, price %4.1f and balance %d pcs", name,price,amount);
